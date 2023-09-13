@@ -12,7 +12,6 @@ namespace OvenClock
 		static double _min;
 
 		static DateTime _nowTime = new DateTime();
-		static DateTime _cookedTime = new DateTime();
 
 		static void Main(string[] args)
 		{
