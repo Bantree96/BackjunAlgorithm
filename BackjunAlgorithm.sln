@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OvenClock", "OvenClock\Oven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeDice", "ThreeDice\ThreeDice.csproj", "{F7AC4A7C-AE4B-48E5-98B0-80145F478364}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "반복문", "반복문", "{142BF624-971D-40B7-AAA9-2DE7573D8E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gugudan", "gugudan\gugudan.csproj", "{5680F88E-6D90-4F9A-9201-F49EE8969E82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,10 @@ Global
 		{F7AC4A7C-AE4B-48E5-98B0-80145F478364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7AC4A7C-AE4B-48E5-98B0-80145F478364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7AC4A7C-AE4B-48E5-98B0-80145F478364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5680F88E-6D90-4F9A-9201-F49EE8969E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5680F88E-6D90-4F9A-9201-F49EE8969E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5680F88E-6D90-4F9A-9201-F49EE8969E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5680F88E-6D90-4F9A-9201-F49EE8969E82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +52,7 @@ Global
 		{87395334-F33B-44F5-ADED-27EE6203228B} = {616BF15D-0A4D-4B77-8677-F46D932551D5}
 		{B7E6967A-1954-403C-A308-F0C2BC4B65E3} = {616BF15D-0A4D-4B77-8677-F46D932551D5}
 		{F7AC4A7C-AE4B-48E5-98B0-80145F478364} = {616BF15D-0A4D-4B77-8677-F46D932551D5}
+		{5680F88E-6D90-4F9A-9201-F49EE8969E82} = {142BF624-971D-40B7-AAA9-2DE7573D8E3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
