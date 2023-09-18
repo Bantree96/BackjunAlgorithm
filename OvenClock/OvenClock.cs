@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OvenClock
 {
-	class Program
+	class OvenClock
 	{
 		static string[] _time = new string[2];
 		static double _min;

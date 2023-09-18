@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 /// </summary>
 namespace AlarmClock
 {
-	class Program
+	class AlarmClock
 	{
 		static string[] _time = new string[2];
 		static DateTime _dateTime = new DateTime();

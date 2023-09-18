@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Quadrant
 {
-	class Program
+	class Quadrant
 	{
 		private static int _x, _y;
 		static void Main(string[] args)
