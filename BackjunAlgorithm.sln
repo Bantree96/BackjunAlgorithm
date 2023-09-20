@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_Sum", "N_Sum\N_Sum.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receipt", "Receipt\Receipt.csproj", "{87800B1B-18B3-44AD-BB1C-08636BFF76CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongLongInt", "LongLongInt\LongLongInt.csproj", "{5AABD420-41BC-41FA-B211-7A5C0FC4465F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{87800B1B-18B3-44AD-BB1C-08636BFF76CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87800B1B-18B3-44AD-BB1C-08636BFF76CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87800B1B-18B3-44AD-BB1C-08636BFF76CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AABD420-41BC-41FA-B211-7A5C0FC4465F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AABD420-41BC-41FA-B211-7A5C0FC4465F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AABD420-41BC-41FA-B211-7A5C0FC4465F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AABD420-41BC-41FA-B211-7A5C0FC4465F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{02380FC1-6F91-4109-97A9-65B50A651610} = {142BF624-971D-40B7-AAA9-2DE7573D8E3C}
 		{005F45E4-EFAE-4617-B666-5B04E17AEDAB} = {142BF624-971D-40B7-AAA9-2DE7573D8E3C}
 		{87800B1B-18B3-44AD-BB1C-08636BFF76CC} = {142BF624-971D-40B7-AAA9-2DE7573D8E3C}
+		{5AABD420-41BC-41FA-B211-7A5C0FC4465F} = {142BF624-971D-40B7-AAA9-2DE7573D8E3C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
