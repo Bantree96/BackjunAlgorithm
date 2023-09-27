@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallChange", "BallChange\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotGiveHomework", "NotGiveHomework\NotGiveHomework.csproj", "{BCBF546F-9B97-4B75-9D99-59384BEAF625}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remain", "Remain\Remain.csproj", "{998367E8-08E8-4B00-BCD6-5AF1A4F2DA7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{BCBF546F-9B97-4B75-9D99-59384BEAF625}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBF546F-9B97-4B75-9D99-59384BEAF625}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBF546F-9B97-4B75-9D99-59384BEAF625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998367E8-08E8-4B00-BCD6-5AF1A4F2DA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998367E8-08E8-4B00-BCD6-5AF1A4F2DA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998367E8-08E8-4B00-BCD6-5AF1A4F2DA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998367E8-08E8-4B00-BCD6-5AF1A4F2DA7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -181,6 +187,7 @@ Global
 		{4580AB65-C35C-47B4-8CF1-5F12F574153D} = {E0C99CB7-5B22-450E-B081-7D9F4C60366B}
 		{5355F2F6-C96D-4E21-92BA-2C15FAFB7D6B} = {E0C99CB7-5B22-450E-B081-7D9F4C60366B}
 		{BCBF546F-9B97-4B75-9D99-59384BEAF625} = {E0C99CB7-5B22-450E-B081-7D9F4C60366B}
+		{998367E8-08E8-4B00-BCD6-5AF1A4F2DA7A} = {E0C99CB7-5B22-450E-B081-7D9F4C60366B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
