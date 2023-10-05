@@ -65,6 +65,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "문자열", "문자열", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharWithString", "CharWithString\CharWithString.csproj", "{423ADD30-53A9-4A95-B308-06E945E3C908}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordLength", "WordLength\WordLength.csproj", "{134F1352-F933-4618-B4AD-40B73120A8F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,10 @@ Global
 		{423ADD30-53A9-4A95-B308-06E945E3C908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{423ADD30-53A9-4A95-B308-06E945E3C908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{423ADD30-53A9-4A95-B308-06E945E3C908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134F1352-F933-4618-B4AD-40B73120A8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134F1352-F933-4618-B4AD-40B73120A8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134F1352-F933-4618-B4AD-40B73120A8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134F1352-F933-4618-B4AD-40B73120A8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -211,6 +217,7 @@ Global
 		{BD39E017-B908-4180-98BC-054516AB914A} = {E0C99CB7-5B22-450E-B081-7D9F4C60366B}
 		{3F31EE8F-E4DD-473E-ADB1-E8B6474AE687} = {E0C99CB7-5B22-450E-B081-7D9F4C60366B}
 		{423ADD30-53A9-4A95-B308-06E945E3C908} = {A6F62230-5F98-43FE-9871-DD59A0EC0352}
+		{134F1352-F933-4618-B4AD-40B73120A8F3} = {A6F62230-5F98-43FE-9871-DD59A0EC0352}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
