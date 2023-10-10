@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounts", "WordCounts\Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sangsu", "Sangsu\Sangsu.csproj", "{196B03A6-E8DB-4ED4-9DA3-04FEC2C6A528}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialPhone", "DialPhone\DialPhone.csproj", "{7B4141D5-5399-47D4-A7B2-F5DBA11BBEA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,10 @@ Global
 		{196B03A6-E8DB-4ED4-9DA3-04FEC2C6A528}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{196B03A6-E8DB-4ED4-9DA3-04FEC2C6A528}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{196B03A6-E8DB-4ED4-9DA3-04FEC2C6A528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4141D5-5399-47D4-A7B2-F5DBA11BBEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4141D5-5399-47D4-A7B2-F5DBA11BBEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4141D5-5399-47D4-A7B2-F5DBA11BBEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4141D5-5399-47D4-A7B2-F5DBA11BBEA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -267,6 +273,7 @@ Global
 		{684111C4-F513-4358-BF64-6B776E75C56E} = {A6F62230-5F98-43FE-9871-DD59A0EC0352}
 		{F3AA9444-980B-4C74-BE8E-871462503CF6} = {A6F62230-5F98-43FE-9871-DD59A0EC0352}
 		{196B03A6-E8DB-4ED4-9DA3-04FEC2C6A528} = {A6F62230-5F98-43FE-9871-DD59A0EC0352}
+		{7B4141D5-5399-47D4-A7B2-F5DBA11BBEA7} = {A6F62230-5F98-43FE-9871-DD59A0EC0352}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
