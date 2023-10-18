@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star7", "Star7\Star7.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{29877D68-1731-4268-A58F-AAE5DC160244}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordStudy", "WordStudy\WordStudy.csproj", "{FD4814BB-0D12-4F31-A18F-74BC05BBCF64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,10 @@ Global
 		{29877D68-1731-4268-A58F-AAE5DC160244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29877D68-1731-4268-A58F-AAE5DC160244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29877D68-1731-4268-A58F-AAE5DC160244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4814BB-0D12-4F31-A18F-74BC05BBCF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4814BB-0D12-4F31-A18F-74BC05BBCF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4814BB-0D12-4F31-A18F-74BC05BBCF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4814BB-0D12-4F31-A18F-74BC05BBCF64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -311,6 +317,7 @@ Global
 		{B609F2DA-6DF9-481F-9F92-3124EB7E06E8} = {BCAB7275-9BA3-448B-AD47-37FE267CA647}
 		{28F21F4A-19C6-46A1-97A3-AEF54A0221FE} = {BCAB7275-9BA3-448B-AD47-37FE267CA647}
 		{29877D68-1731-4268-A58F-AAE5DC160244} = {BCAB7275-9BA3-448B-AD47-37FE267CA647}
+		{FD4814BB-0D12-4F31-A18F-74BC05BBCF64} = {BCAB7275-9BA3-448B-AD47-37FE267CA647}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
