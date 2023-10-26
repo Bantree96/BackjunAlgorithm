@@ -6,11 +6,14 @@ namespace _10798_세로읽기
 	{
 		static void Main(string[] args)
 		{
-			string[,] text = new string[5,15];
+			int rows = 5;
+			int cols = 15;
+
+			string[,] text = new string[rows, cols];
 			text.Initialize();
 
 			// 입력
-			for(int i = 0; i < 5; i++)
+			for(int i = 0; i < rows; i++)
 			{
 				string input = Console.ReadLine();
 
@@ -22,9 +25,9 @@ namespace _10798_세로읽기
 
 
 			// 출력
-			for(int j = 0; j < 15; j++)
+			for(int j = 0; j < cols; j++)
 			{
-				for(int i = 0; i < 5; i++)
+				for(int i = 0; i < rows; i++)
 				{
 					if(text[i,j] == null)
 					{
