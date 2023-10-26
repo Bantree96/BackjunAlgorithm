@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2738_행렬덧셈", "2738_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2566_최댓값", "2566_최댓값\2566_최댓값.csproj", "{F953504A-569D-47D2-811C-8A85A8CC0EDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10798_세로읽기", "10798_세로읽기\10798_세로읽기.csproj", "{92853301-4058-4A04-87AB-E3C0E9172873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{F953504A-569D-47D2-811C-8A85A8CC0EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F953504A-569D-47D2-811C-8A85A8CC0EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F953504A-569D-47D2-811C-8A85A8CC0EDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92853301-4058-4A04-87AB-E3C0E9172873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92853301-4058-4A04-87AB-E3C0E9172873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92853301-4058-4A04-87AB-E3C0E9172873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92853301-4058-4A04-87AB-E3C0E9172873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,6 +361,7 @@ Global
 		{4066F122-6C1A-4540-83A2-89E42BDDD4F9} = {BCAB7275-9BA3-448B-AD47-37FE267CA647}
 		{7E028356-0ED0-4385-83FA-A1CCC7A365DD} = {E89B6C78-EE94-498D-8BCA-107D81686769}
 		{F953504A-569D-47D2-811C-8A85A8CC0EDC} = {E89B6C78-EE94-498D-8BCA-107D81686769}
+		{92853301-4058-4A04-87AB-E3C0E9172873} = {E89B6C78-EE94-498D-8BCA-107D81686769}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
