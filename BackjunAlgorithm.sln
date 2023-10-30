@@ -117,6 +117,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "일반수학", "일반수�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2745_진법변환", "2745_진법변환\2745_진법변환.csproj", "{554CAA42-FD79-4C12-9000-22565974CDBE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "약수,배수와 소수", "약수,배수와 소수", "{78EA75F4-D620-433E-93E3-B8B51478D1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5086_배수와 약수", "5086_배수와 약수\5086_배수와 약수.csproj", "{40BD8B3A-F56D-45B2-9AA8-8713E52EAA64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -323,6 +327,10 @@ Global
 		{554CAA42-FD79-4C12-9000-22565974CDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554CAA42-FD79-4C12-9000-22565974CDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{554CAA42-FD79-4C12-9000-22565974CDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BD8B3A-F56D-45B2-9AA8-8713E52EAA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BD8B3A-F56D-45B2-9AA8-8713E52EAA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BD8B3A-F56D-45B2-9AA8-8713E52EAA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BD8B3A-F56D-45B2-9AA8-8713E52EAA64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -378,6 +386,7 @@ Global
 		{92853301-4058-4A04-87AB-E3C0E9172873} = {E89B6C78-EE94-498D-8BCA-107D81686769}
 		{E817D997-6282-4046-BA7D-D4FF2B06A151} = {E89B6C78-EE94-498D-8BCA-107D81686769}
 		{554CAA42-FD79-4C12-9000-22565974CDBE} = {D93940E7-021E-4AD9-8C3C-BA30B3469E96}
+		{40BD8B3A-F56D-45B2-9AA8-8713E52EAA64} = {78EA75F4-D620-433E-93E3-B8B51478D1C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
