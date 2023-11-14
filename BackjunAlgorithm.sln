@@ -129,6 +129,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1978_소수찾기", "1978_�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2581_소수", "2581_소수\2581_소수.csproj", "{4AFF4CCB-2906-4898-BDA5-ED589550DC93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11653_소인수분해", "11653_소인수분해\11653_소인수분해.csproj", "{979391C6-46CB-48C2-972F-A89E0A53597B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -355,6 +357,10 @@ Global
 		{4AFF4CCB-2906-4898-BDA5-ED589550DC93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AFF4CCB-2906-4898-BDA5-ED589550DC93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AFF4CCB-2906-4898-BDA5-ED589550DC93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979391C6-46CB-48C2-972F-A89E0A53597B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979391C6-46CB-48C2-972F-A89E0A53597B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979391C6-46CB-48C2-972F-A89E0A53597B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979391C6-46CB-48C2-972F-A89E0A53597B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -415,6 +421,7 @@ Global
 		{B764C0C3-C736-4DE3-B031-8493241A16F9} = {78EA75F4-D620-433E-93E3-B8B51478D1C6}
 		{39318DD6-B2DA-4E9A-A388-63DDB6A16AB1} = {78EA75F4-D620-433E-93E3-B8B51478D1C6}
 		{4AFF4CCB-2906-4898-BDA5-ED589550DC93} = {78EA75F4-D620-433E-93E3-B8B51478D1C6}
+		{979391C6-46CB-48C2-972F-A89E0A53597B} = {78EA75F4-D620-433E-93E3-B8B51478D1C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C41261C3-8F7B-4B6F-BA88-2CC1174C878B}
